@@ -1,0 +1,8 @@
+{
+  "name": "crsm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "faaf9b61"
+}

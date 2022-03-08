@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "crsm",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
